@@ -1,0 +1,18 @@
+{
+    "uuid": "298d2d1a-e336-482e-92d6-ac7e85bb4c11",
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "neonik47.1@gmail.com",
+    "shortName": "watchapp",
+    "longName": "watchapp",
+    "watchapp": {
+        "watchface": true
+    },
+    "versionCode": 1,
+    "appKeys": {},
+    "versionLabel": "1.0"
+}
