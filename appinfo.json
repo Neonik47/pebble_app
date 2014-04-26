@@ -10,7 +10,7 @@
     "shortName": "watchapp",
     "longName": "watchapp",
     "watchapp": {
-        "watchface": true
+        "watchface": false
     },
     "versionCode": 1,
     "appKeys": {},
